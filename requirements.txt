@@ -1,0 +1,9 @@
+requests
+Pillow
+piexif
+face_recognition
+numpy
+faiss-cpu
+tqdm
+python-dateutil
+jupyter
